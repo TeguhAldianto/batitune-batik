@@ -183,7 +183,3 @@ Proyek ini dikembangkan sebagai **Proyek Akhir** oleh:
 ## 📄 Lisensi
 
 Proyek ini bersifat open-source di bawah lisensi [MIT license](https://opensource.org/licenses/MIT).
-
-```
-
-```
